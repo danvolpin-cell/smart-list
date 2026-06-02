@@ -58,8 +58,10 @@ export default function MainApp({ session }) {
       }
 
       const allLists = await loadLists()
+      const lastId = localStorage.getItem(`smartlist_last_list_${user.id}`)
+      const restored = lastId && allLists.find(l => l.id === lastId)
       const personal = allLists.find(l => l.is_personal)
-      if (personal) setSelectedListId(personal.id)
+      setSelectedListId((restored || personal)?.id ?? null)
     }
     init()
   }, [user.id, loadLists])
@@ -80,6 +82,7 @@ export default function MainApp({ session }) {
     setShowCreateModal(false)
     await loadLists()
     setSelectedListId(data.id)
+    localStorage.setItem(`smartlist_last_list_${user.id}`, data.id)
     toast.success(`List created! Code: ${shareCode}`)
   }
 
@@ -107,6 +110,7 @@ export default function MainApp({ session }) {
     setShowJoinModal(false)
     await loadLists()
     setSelectedListId(list.id)
+    localStorage.setItem(`smartlist_last_list_${user.id}`, list.id)
     toast.success(`Joined "${list.name}"!`)
   }
 
@@ -153,7 +157,7 @@ export default function MainApp({ session }) {
           <Sidebar
             lists={lists}
             selectedListId={selectedListId}
-            onSelectList={(id) => { setSelectedListId(id); setSidebarOpen(false) }}
+            onSelectList={(id) => { setSelectedListId(id); setSidebarOpen(false); localStorage.setItem(`smartlist_last_list_${user.id}`, id) }}
             onCreateList={() => setShowCreateModal(true)}
             onJoinList={() => setShowJoinModal(true)}
           />
