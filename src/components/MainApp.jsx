@@ -83,8 +83,8 @@ export default function MainApp({ session }) {
   }
 
   const handleJoinList = async (code) => {
-    const { data: rows, error } = await supabase.rpc('find_list_by_code', { p_code: code })
-    const list = rows?.[0] ?? null
+    const { data: list, error } = await supabase
+      .from('lists').select('*').eq('share_code', code.toUpperCase().trim()).maybeSingle()
     if (error || !list) { toast.error('List not found. Check the code.'); return }
     const { data: existing } = await supabase
       .from('list_members').select('list_id').eq('list_id', list.id).eq('user_id', user.id).maybeSingle()
