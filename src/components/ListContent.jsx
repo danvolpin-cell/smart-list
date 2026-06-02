@@ -90,11 +90,37 @@ export default function ListContent({ list, userId, allLists, onRefreshLists }) 
   }
 
   const deleteFolder = async (folderId) => {
-    // Move items to no-folder before deleting
     await supabase.from('items').update({ folder_id: null }).eq('folder_id', folderId)
     const { error } = await supabase.from('folders').delete().eq('id', folderId)
     if (error) toast.error('Failed to delete folder')
     else loadData()
+  }
+
+  const renameFolder = async (folderId, name) => {
+    const { error } = await supabase.from('folders').update({ name: name.trim() }).eq('id', folderId)
+    if (error) toast.error('Failed to rename folder')
+    else loadData()
+  }
+
+  const reorderFolders = async (orderedIds) => {
+    setFolders(prev => orderedIds.map(id => prev.find(f => f.id === id)).filter(Boolean))
+    await Promise.all(
+      orderedIds.map((id, i) => supabase.from('folders').update({ sort_order: i }).eq('id', id))
+    )
+  }
+
+  const reorderItems = async (orderedIds) => {
+    setItems(prev => {
+      const updated = [...prev]
+      orderedIds.forEach((id, i) => {
+        const idx = updated.findIndex(it => it.id === id)
+        if (idx !== -1) updated[idx] = { ...updated[idx], sort_order: i }
+      })
+      return updated
+    })
+    await Promise.all(
+      orderedIds.map((id, i) => supabase.from('items').update({ sort_order: i }).eq('id', id))
+    )
   }
 
   const toggleFolderExpand = async (folder) => {
@@ -192,7 +218,10 @@ export default function ListContent({ list, userId, allLists, onRefreshLists }) 
         onFavorite={toggleFavorite}
         onEdit={setEditItem}
         onDeleteFolder={deleteFolder}
+        onRenameFolder={renameFolder}
         onToggleFolderExpand={toggleFolderExpand}
+        onReorderFolders={reorderFolders}
+        onReorderItems={reorderItems}
         onCheckAll={checkAll}
         onUncheckAll={uncheckAll}
       />
