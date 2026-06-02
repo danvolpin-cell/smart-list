@@ -5,6 +5,7 @@ import ListHeader from './ListHeader'
 import AddItemForm from './AddItemForm'
 import AddFolderForm from './AddFolderForm'
 import ItemList from './ItemList'
+import SearchBar from './SearchBar'
 import MembersModal from './modals/MembersModal'
 import ShareSnapshotModal from './modals/ShareSnapshotModal'
 import EditItemModal from './modals/EditItemModal'
@@ -110,6 +111,13 @@ export default function ListContent({ list, userId, allLists, onRefreshLists }) 
     setEditItem(null)
   }
 
+  const scrollToItem = (item) => {
+    setTimeout(() => {
+      const el = document.getElementById(`item-${item.id}`)
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    }, 50)
+  }
+
   const checkAll = async () => {
     const unchecked = items.filter(i => !i.is_purchased).map(i => i.id)
     if (!unchecked.length) return
@@ -166,6 +174,8 @@ export default function ListContent({ list, userId, allLists, onRefreshLists }) 
           <span className="text-xs text-gray-400 bg-gray-100 px-2 py-1 rounded-full">Private</span>
         </div>
       )}
+
+      <SearchBar items={items} folders={folders} onAdd={addItem} onScrollToItem={scrollToItem} />
 
       <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-4 space-y-3">
         <AddItemForm folders={folders} onAdd={addItem} />
