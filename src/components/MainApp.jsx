@@ -19,15 +19,28 @@ export default function MainApp({ session }) {
   const user = session.user
 
   const loadLists = useCallback(async () => {
+    // Fetch owned lists and explicit memberships separately — never join
+    // to lists blindly (guards against RLS misconfig leaking other users' lists)
     const [{ data: owned }, { data: memberships }] = await Promise.all([
       supabase.from('lists').select('*').eq('owner_id', user.id).order('is_personal', { ascending: false }).order('created_at'),
-      supabase.from('list_members').select('list_id, lists(*)').eq('user_id', user.id),
+      supabase.from('list_members').select('list_id').eq('user_id', user.id),
     ])
-    const memberLists = (memberships || []).map(m => m.lists).filter(Boolean)
-    const allLists = [...(owned || []), ...memberLists]
-    const unique = allLists.filter((l, i, arr) => arr.findIndex(x => x.id === l.id) === i)
-    setLists(unique)
-    return unique
+
+    // Fetch shared lists by explicit ID — only ones the user is a member of
+    const memberIds = (memberships || []).map(m => m.list_id)
+    const ownedIds = new Set((owned || []).map(l => l.id))
+    const sharedIds = memberIds.filter(id => !ownedIds.has(id))
+
+    let sharedLists = []
+    if (sharedIds.length > 0) {
+      const { data } = await supabase.from('lists').select('*').in('id', sharedIds)
+      // Extra safety: only include lists not owned by this user (personal lists of others filtered out)
+      sharedLists = (data || []).filter(l => l.owner_id !== user.id || !l.is_personal)
+    }
+
+    const allLists = [...(owned || []), ...sharedLists]
+    setLists(allLists)
+    return allLists
   }, [user.id])
 
   useEffect(() => {
