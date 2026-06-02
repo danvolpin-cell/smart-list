@@ -1,0 +1,2112 @@
+	name
+quantity
+folder_id
+sort_order
+is_favorite
+is_purchased
+family_list_id
+	
+Pasta
+500g
+NULL	NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+אורז לבן
+2 כוסות
+NULL	NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+חזה עוף חתוך לקוביות
+500 גרם
+NULL	NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+שמפו
+1
+NULL	NULL	false	false	NULL
+	
+גחנון
+1
+NULL	NULL	false	true	NULL
+	
+שניצלים
+1
+NULL	NULL	false	true	NULL
+	
+בשר
+1
+NULL	NULL	false	true	NULL
+	
+שמפו
+1
+NULL	NULL	false	true	NULL
+	
+גבינה צהובה
+1
+NULL	NULL	false	false	NULL
+	
+גרעינים
+1
+NULL	NULL	false	false	NULL
+	
+חלב לאליסה
+1
+NULL	NULL	false	true	NULL
+	
+שקיות זבל
+1
+NULL	NULL	false	true	NULL
+	
+ברנפלקס
+1
+NULL	NULL	false	true	NULL
+	
+סוכר לבן
+1
+NULL	NULL	false	true	NULL
+	
+תמונות
+1
+NULL	NULL	false	true	NULL
+	
+מתלה לאסלה
+1
+NULL	NULL	false	true	NULL
+	
+פריכיות
+1
+NULL	NULL	false	true	NULL
+	
+קוטג׳
+1
+NULL	NULL	false	true	NULL
+	
+חטיפי חלבון
+1
+NULL	NULL	false	true	NULL
+	
+מעדן חלבון
+1
+NULL	NULL	false	true	NULL
+	
+פיצוחים
+1
+NULL	NULL	false	true	NULL
+	
+עוגת שיש
+1
+NULL	NULL	false	true	NULL
+	
+עוגיות מתוקות
+1
+NULL	NULL	false	true	NULL
+	
+עוגיות מלוחות
+1
+NULL	NULL	false	true	NULL
+	
+שישיית מים
+2
+NULL	NULL	false	true	NULL
+	
+קפסולות קפה
+1
+NULL	NULL	false	true	NULL
+	
+קולה זירו
+1
+NULL	NULL	false	true	NULL
+	
+Bira weihenstephaner
+4
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Avkat ginger
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Toster
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+תופו
+1
+NULL	NULL	false	true	NULL
+	
+שוקו בריא
+1
+NULL	NULL	false	true	NULL
+	
+תירס
+1
+NULL	NULL	false	true	NULL
+	
+לוחים מחיקים ותושים
+1
+860809d6-7113-4adb-b927-ad4e8f8eb325
+NULL	false	false	NULL
+	
+Morag
+3
+b7d0d616-750b-4a0d-be69-29df731e57d9
+NULL	false	true	NULL
+	
+Dried oregano
+2 tsp
+NULL	NULL	false	true	NULL
+	
+Pasta (Spaghetti or Tagliatelle)
+1.1kg
+NULL	NULL	false	true	NULL
+	
+Mfsek l menora
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ananas kufsa
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rekes agvaniot
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tiras popcorn
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Niar bad mitvaj
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kfafot jad pamiot
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Matliot lajot
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Muzzarella
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kiwi
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ores
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Oznei aman
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Omaprodex
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Matliot tzeubot
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shkedei marak
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tipul adom May
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Colgate
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+קפה לפקל קפה
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+Anabin tarkiz
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tarkiz tea diet
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Petel tarkiz
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tirosh laban
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Linkedin
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+כביסה
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+כפפות בדקתלון
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+לטפל בגינה
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+לתקן לאמא כוס
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+קפה בפקל
+1
+f9583a1f-1851-4931-a542-a7b135432bf2
+NULL	false	true	NULL
+	
+Krutonim
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shkedei marak
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rezek tapuaj etz
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Salat perot
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Omega3
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Salmon mehushan
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Salmon canola
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ojel dagim
+1
+9ae5a852-a37d-4151-9101-64d4a6dd69ae
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Omega3 thoro
+1
+9ae5a852-a37d-4151-9101-64d4a6dd69ae
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ojel toro mifrakim
+1
+9ae5a852-a37d-4151-9101-64d4a6dd69ae
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jisun thoro
+1
+9ae5a852-a37d-4151-9101-64d4a6dd69ae
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Avkat marak
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Riva
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+יין
+1
+NULL	NULL	false	false	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+עגבנית שרי
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+מלפפון
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+גבינת עזים
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+גבינה צהובה
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+לחם
+1
+NULL	NULL	false	false	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+גבינה לבנה
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+Deodorant
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Parches codos
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Test i10 adom 27-2
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Test i10 laban
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Test micra
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tipul i10 adom May
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tipul i10 laban
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tipul micra
+1
+2614eb2e-d7c3-4e6b-a08b-4ce3e96bec1b
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sufganiot
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Talc primon
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ugiut chocolat tapuz
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Cafe nes
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Cafe lelo cafein
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+קפסולות קפה
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mebasem sherutim
+1
+NULL	NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+תרכיז דיאט
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+
+כרובית
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Merakej kvisa
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Bulgarit
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Levane
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Gvina levana
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Cotag
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Yogurt colagen
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Yogurt pro
+3
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Niar mitvaj
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jasa
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rotev barbacue
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rotev soja
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rotev agvaniot
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mayones
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ketshop
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Waflot
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Creckerim
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Oreo
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Vitamin b12 sjujit
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Vitamid d 1000 tipot
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Velveta
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mishjat sheinaim
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jut dentali
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Maklonei kutna
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Arizat pesek zman, kifkaf, mekupelet
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Malbin kvisa
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sabon kvisa
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Ritzpas
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Economica
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Barbaz sherutim
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mebasem sherutim
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Niar toilet
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sabon idaim
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shampoo
+1
+0ce6fe58-b5aa-49af-8761-19fb36470ee4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Voltaren
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Doje itushim
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mishja le girudim
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mishja le pzaim
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Dvash
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Dmaot tipot
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Renie
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kalbeten
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tzemer gefen
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Plasterim
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mei jamtzan
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Alcohol
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Strepsils
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Neurofen
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Acamol sinun
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Acamol
+1
+93c37f0c-9956-47ea-b5c0-be1321615ce7
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Menorot jalash
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Menorot jazak
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Nerot shabat
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Dio 653 color
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Dio 653 blak
+1
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Clementina
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Nectarina
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Afarsemon
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Afarsek
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shajar a ole
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Nutela
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Avkat uga iomuledet
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Capsulot cafe
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Chocolit
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pereg
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sumsum
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Zatar
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shmarim
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Greek yogurt
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tehina
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jumus
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pekan
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tmarim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shezifim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Teenim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mishmish
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shkedim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pistukim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Grinei Dlaat
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jamutziot
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Egos melej
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tzimukim
+1
+19871061-b58b-452d-ab3e-1ae11c3d535a
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Egos muskat
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Curry
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Basilicum
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Basilicum iabesh
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shamir
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Curcum
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Cinamon maklot
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Cinamon
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Batzal shvavim
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shum gvishi
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Paprika grusa
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Paprika
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Melaj limon
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pilpel
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Petrozilia
+1
+1d9f1398-6844-46bb-a5e9-555ec5aa3af1
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pirex 2l
+2
+20c68768-bff0-4fc7-9830-356440130f70
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kadurei sifolus
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Glida
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+
+Conitos
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Melaj gas
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Melaj
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Soda le shtia
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sucar jum
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sucar
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pirurei lejem
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kemaj lejem
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kemaj male
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Kemaj ragil
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Isolirband
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mefatzel katzar
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Mabreguim
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Sheka 240
+1
+157b900a-ad08-4b1f-86e6-2d90bd63dc58
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Salat peirot
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rekez tpuaj etz
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Brocoli
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+במב נוגט
+4
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+צ׳יטוס
+4
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+לחם
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+חמאת בוטנים
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+פילה עוף
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+פילה בקר
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pizza
+1
+NULL	NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+רוטב צ'ילי חריף
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+רוטב צ'ילי מתוק
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+רוטב ברביקיו
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+פלפל שחור
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+מלח
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+עוגיות
+1
+NULL	NULL	false	false	NULL
+	
+ריבה
+1
+NULL	NULL	false	false	NULL
+	
+חמאת בוטנים
+1
+NULL	NULL	false	false	NULL
+	
+חמאה
+1
+NULL	NULL	false	false	NULL
+	
+שמן קנולה
+1
+NULL	NULL	false	false	NULL
+	
+שמן זית
+1
+NULL	NULL	false	false	NULL
+	
+בשר
+1
+NULL	NULL	false	false	NULL
+	
+עוף
+1
+NULL	NULL	false	false	NULL
+	
+עגבניה
+1
+bf1f70b7-80db-4e05-8dbc-66810c1b23c1
+NULL	false	false	NULL
+	
+מלפפון
+1
+bf1f70b7-80db-4e05-8dbc-66810c1b23c1
+NULL	false	false	NULL
+	
+תפוח
+1
+NULL	NULL	false	false	NULL
+	
+בננה
+1
+19993f47-625c-40f9-800a-cfe20e839254
+NULL	false	false	NULL
+	
+9--kashim
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+8--shtiah
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+7--lejem
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+anchovies
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+sardinim
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+tuna jarifa
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+tuna
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+palmitos
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+6--shimurim
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+adashim
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+krubit
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+tered
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+amnon
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	true	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+salmon
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+pizza
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+5--kfuim
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+jaze off
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+6
+false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+mispar4
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+mispar2
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+pulkes
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+antricot
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+basar tajun
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+chorizos
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+naknikiot
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+pargiot
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+knafaim
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+7
+false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+shnitzel
+1
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	true	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+cinta
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+4--basar
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+3--kirur
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+2--perot
+1
+NULL	NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+1--ierakot
+1
+NULL	
+4
+false	false	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Beer
+6
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	true	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Eshkoliot
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tapuzim
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Avocado
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shum
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Petrozilia
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+5
+false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Gezer
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pitriot champinion
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shemen zait
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Shemen Canola
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jometz
+1
+8d9f0ff5-d569-47c2-996a-e33701874dff
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Uga
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Oreo
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Bananot
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+ביצים
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Batata
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Baatzal
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tapuaj etz
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Agasim
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Anabim
+1
+560bf1c0-6884-4e04-9304-9f63a4d3243f
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Rivat jalav
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Riva
+1
+d619727e-278a-4468-9fd4-fe77fad6e180
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+ביצים
+1
+NULL	NULL	false	false	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+Tapuaj adama
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Melafefon
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Agvaniot
+1
+0b9589a4-36d8-4b45-b395-49bdbd1c8b9d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Melafafon jamutz
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+
+Zeitim
+1
+bc511187-1ebf-42fa-96cd-f58901aa14e4
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Pitot
+1
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jalot
+4
+97f7c57c-4e8d-4bf9-ba7a-79d30f20d454
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Margarina
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Jema
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Zero
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Iain kidush
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Basar 2
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Of
+1
+f9f213f2-69c5-4db8-bfbe-4a06d24d8c4d
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Tirosh
+1
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Parmesan
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Gauda
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Emeq
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Yogourt
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+Milk
+1
+cefa6922-3174-4a05-8622-f86cf902a247
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+קולה
+6
+2d44aea0-3c99-4f7e-944b-484f83a5af15
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+בורקסים
+2
+518f1001-ed69-4a34-9799-0d35c915f3b3
+NULL	false	true	
+42ecf006-818b-4a9c-92c5-52694b67369c
+	
+שניצל
+1
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+עוד מתנה לדן
+10
+NULL	NULL	false	false	
+87cae623-bbb5-4cb8-a36c-200426b2c570
+	
+מתנה לדן
+100
+NULL	NULL	false	false	
+87cae623-bbb5-4cb8-a36c-200426b2c570
+	
+ענבים
+חבילה1
+NULL	NULL	false	false	
+87cae623-bbb5-4cb8-a36c-200426b2c570
+	
+יוגורט
+8
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+יוגורט
+10
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+יוגורט
+9
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+תפוח
+שלוש
+NULL	NULL	false	true	
+87cae623-bbb5-4cb8-a36c-200426b2c570
+	
+יוגורט
+8
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+חמאה או שמן זית
+2 כפות (30 מ"ל)
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+ביצים גדולות
+8 גדול
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+פלפל שחור
+1/2 כפית
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+Milk
+60 ml (1/4 cup)
+NULL	NULL	false	true	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+מלח
+1 כפית
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+דולרים
+מיליארד
+NULL	NULL	true	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+במבה נוגט
+4
+NULL	NULL	true	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+שניצל
+8
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+שוקולד
+2 חפיסות
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+חלב
+2 ליטר
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+עגבנייה
+1 ק"ג
+NULL	NULL	false	false	
+1708abe6-bf5f-4b17-9a08-73069f70badb
+	
+משהו
+6
+NULL	NULL	true	false	
+09560a5d-11b9-42ba-98b0-1366dc6f666a
+	
+מחשב
+1
+NULL	NULL	false	true	
+09560a5d-11b9-42ba-98b0-1366dc6f666a
+	
+גז צחוק
+1
+NULL	NULL	false	true	
+09560a5d-11b9-42ba-98b0-1366dc6f666a
+	
+ביצים
+7
+NULL	NULL	false	false	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+חלב ש״ש
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+Chicken
+3
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+Banana
+1
+NULL	NULL	false	true	
+8f12d87d-cb45-47e2-9bbb-844a143c7291
+	
+yes
+1
+NULL	NULL	false	false	
+00df7b63-d7e9-42f0-9e52-ff71b35c8705
+	
+love
+1
+NULL	NULL	false	false	
+00df7b63-d7e9-42f0-9e52-ff71b35c8705
+	
+מלח
+to taste (about 1/2–1 teaspoon)
+NULL	NULL	false	false	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+חמאה ללא מלח (אופציונלי, מומסת)
+3 tablespoons
+NULL	NULL	false	false	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+גרעיני פופקורן
+1/2 cup (about 90–100 g)
+NULL	NULL	false	false	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+niggers
+1
+NULL	NULL	false	false	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+בננה
+1
+NULL	NULL	false	true	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+banan
+1
+NULL	NULL	false	false	
+996b4727-6619-4ef7-ad92-51a73abef4e3
+	
+חלב
+1
+NULL	NULL	false	false	NULL
+	
+nigga
+1
+NULL	NULL	false	false	
+5bf68713-4df0-44a8-8041-52a296e91970
+	
+חלב
+2 ליטר
+NULL	NULL	false	false	NULL
+	
+חלב
+3
+NULL	NULL	false	false	NULL
+	
+פירורי לחם (אופציונלי, לטופינג)
+1 tsp
+NULL	NULL	false	false	NULL
+	
+אבקת חרדל יבש (אופציונלי)
+1/4 tsp
+NULL	NULL	false	false	NULL
+	
+פלפל שחור
+1/8 tsp (pinch)
+NULL	NULL	false	false	NULL
+	
+פלפל שחור
+1/8 tsp (pinch)
+NULL	NULL	false	false	NULL
+	
+מלח
+1/4 tsp
+NULL	NULL	false	false	NULL
+	
+מלח
+1/4 tsp
+NULL	NULL	false	false	NULL
+	
+מלח
+1/4 tsp
+NULL	NULL	false	false	NULL
+	
+גבינת צ'דר חדה, מגורדת
+1/2 cup (≈56–60 g)
+NULL	NULL	false	false	NULL
+	
+גבינת צ'דר חדה, מגורדת
+1/2 cup (≈56–60 g)
+NULL	NULL	false	false	NULL
+	
+חלב (כל אחוז)
+1/2 cup (120 ml)
+NULL	NULL	false	false	NULL
+	
+קמח לכל מטרה
+1 tbsp (8 g)
+NULL	NULL	false	false	NULL
+	
+פסטה מקרוני (לא מבושל)
+2 oz (56 g / about 1/2 cup)
+NULL	NULL	false	false	NULL
+	
+חמאה ללא מלח
+1 tbsp (14 g)
+NULL	NULL	false	false	NULL
+	
+גבינת מוצרלה, מגורדת
+1/2 cup (50–60 g)
+NULL	NULL	false	true	NULL
+	
+עלי לזניה (טרי או ללא הרתחה)
+1 sheet
+NULL	NULL	false	false	NULL
+	
+שום, כתוש
+1 small clove
+NULL	NULL	false	true	NULL
+	
+בצל, קצוץ דק
+2 tablespoons (about 30 g)
+NULL	NULL	false	true	NULL
+	
+גבינת פרמזן, מגורדת
+2 tablespoons (10 g)
+NULL	NULL	false	true	NULL
+	
+גבינת ריקוטה
+1/2 cup (120 g)
+NULL	NULL	false	false	NULL
+	
+רוטב עגבניות (מרינרה)
+3/4 cup (180 ml)
+NULL	NULL	false	false	NULL
+	
+שמן זית
+1 teaspoon
+NULL	NULL	false	false	NULL
+	
+מלח
+1/4 teaspoon
+NULL	NULL	false	false	NULL
+	
+פלפל שחור
+a pinch
+NULL	NULL	false	false	NULL
+	
+בזיליקום טרי, קצוץ
+1 tablespoon
+NULL	NULL	false	true	NULL
+	
+ביצים
+12
+NULL	NULL	true	true	NULL
+	
+עגבניות
+6
+NULL	NULL	false	true	NULL
+	
+חלב
+2L
+NULL	NULL	true	false	NULL
+	
+שניצל
+3
+NULL	NULL	false	false	NULL
+	
+חלב
+1L
+NULL	NULL	false	false	NULL
