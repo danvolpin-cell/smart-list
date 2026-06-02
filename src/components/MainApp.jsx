@@ -34,8 +34,8 @@ export default function MainApp({ session }) {
     let sharedLists = []
     if (sharedIds.length > 0) {
       const { data } = await supabase.from('lists').select('*').in('id', sharedIds)
-      // Extra safety: only include lists not owned by this user (personal lists of others filtered out)
-      sharedLists = (data || []).filter(l => l.owner_id !== user.id || !l.is_personal)
+      // Never show someone else's personal list — only non-personal shared lists
+      sharedLists = (data || []).filter(l => !l.is_personal)
     }
 
     const allLists = [...(owned || []), ...sharedLists]
