@@ -18,14 +18,15 @@ export default function ListHeader({ list, isOwner, onShowMembers, onShareSnapsh
         <div>
           <h2 className="text-lg font-bold text-gray-800">{list.name}</h2>
           <div className="flex items-center gap-2 mt-1">
-            <span className="text-xs text-gray-400">Share code:</span>
+            <span className="text-xs text-gray-400">Invite code:</span>
             <code className="text-sm font-mono font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded">
               {list.share_code}
             </code>
-            <button onClick={copyCode} className="text-gray-400 hover:text-blue-600 transition-colors">
+            <button onClick={copyCode} className="text-gray-400 hover:text-blue-600 transition-colors" title="Copy invite code">
               {copied ? <Check size={14} className="text-green-500" /> : <Copy size={14} />}
             </button>
           </div>
+          <p className="text-xs text-gray-400 mt-0.5">Share this code so others can join the list</p>
         </div>
 
         <div className="flex items-center gap-2">
@@ -41,7 +42,7 @@ export default function ListHeader({ list, isOwner, onShowMembers, onShareSnapsh
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 text-sm transition-colors"
           >
             <Share2 size={14} />
-            Share List
+            Send Items
           </button>
           {isOwner ? (
             <button
