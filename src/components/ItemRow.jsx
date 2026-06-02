@@ -2,7 +2,7 @@ import { Heart, Pencil, Trash2, CheckCircle2, Circle } from 'lucide-react'
 
 export default function ItemRow({ item, onToggle, onDelete, onFavorite, onEdit, indent = false, noLeftPad = false }) {
   return (
-    <div id={`item-${item.id}`} className={`flex items-center gap-3 py-3 hover:bg-gray-50 transition-colors group ${noLeftPad ? 'pr-4' : indent ? 'px-4 pl-8' : 'px-4'}`}>
+    <div id={`item-${item.id}`} onDoubleClick={() => onToggle(item)} className={`flex items-center gap-3 py-3 hover:bg-gray-50 transition-colors group ${noLeftPad ? 'pr-4' : indent ? 'px-4 pl-8' : 'px-4'}`}>
       <button
         onClick={() => onToggle(item)}
         className="flex-shrink-0 transition-colors"
