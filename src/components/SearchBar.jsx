@@ -9,9 +9,12 @@ export default function SearchBar({ items, folders, onAdd, onScrollToItem }) {
 
   const folderMap = Object.fromEntries(folders.map(f => [f.id, f.name]))
 
-  const matches = query.trim().length === 0 ? [] : items.filter(item =>
-    item.name.toLowerCase().includes(query.trim().toLowerCase())
-  )
+  const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean)
+
+  const matches = words.length === 0 ? [] : items.filter(item => {
+    const name = item.name.toLowerCase()
+    return words.some(w => name.includes(w))
+  })
 
   const exactMatch = items.some(
     item => item.name.toLowerCase() === query.trim().toLowerCase()
