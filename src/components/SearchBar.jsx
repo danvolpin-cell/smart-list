@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect, useMemo } from 'react'
 import { Search, Plus, X, FolderOpen } from 'lucide-react'
 import Fuse from 'fuse.js'
+import { buildSearchText, expandQuery } from '../lib/search-utils'
 
 export default function SearchBar({ items, folders, onAdd, onScrollToItem }) {
   const [query, setQuery] = useState('')
@@ -10,14 +11,37 @@ export default function SearchBar({ items, folders, onAdd, onScrollToItem }) {
 
   const folderMap = Object.fromEntries(folders.map(f => [f.id, f.name]))
 
-  const fuse = useMemo(() => new Fuse(items, {
-    keys: ['name'],
-    threshold: 0.4,      // 0 = exact, 1 = match anything
-    distance: 100,
-    minMatchCharLength: 2,
-  }), [items])
+  // Enrich each item with transliterated + translated search text
+  const enrichedItems = useMemo(() =>
+    items.map(item => ({ ...item, _search: buildSearchText(item) })),
+    [items]
+  )
 
-  const matches = query.trim().length === 0 ? [] : fuse.search(query.trim()).map(r => r.item)
+  const fuse = useMemo(() => new Fuse(enrichedItems, {
+    keys: ['_search'],
+    threshold: 0.35,
+    distance: 200,
+    minMatchCharLength: 2,
+    includeScore: true,
+  }), [enrichedItems])
+
+  const matches = useMemo(() => {
+    const q = query.trim()
+    if (!q) return []
+    // Search with each expanded variant and merge results
+    const variants = expandQuery(q)
+    const seen = new Set()
+    const results = []
+    for (const variant of variants) {
+      for (const r of fuse.search(variant)) {
+        if (!seen.has(r.item.id)) {
+          seen.add(r.item.id)
+          results.push({ item: r.item, score: r.score ?? 1 })
+        }
+      }
+    }
+    return results.sort((a, b) => a.score - b.score).map(r => r.item)
+  }, [query, fuse])
 
   const exactMatch = items.some(
     item => item.name.toLowerCase() === query.trim().toLowerCase()
