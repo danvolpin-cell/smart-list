@@ -1,5 +1,6 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, useMemo } from 'react'
 import { Search, Plus, X, FolderOpen } from 'lucide-react'
+import Fuse from 'fuse.js'
 
 export default function SearchBar({ items, folders, onAdd, onScrollToItem }) {
   const [query, setQuery] = useState('')
@@ -9,12 +10,14 @@ export default function SearchBar({ items, folders, onAdd, onScrollToItem }) {
 
   const folderMap = Object.fromEntries(folders.map(f => [f.id, f.name]))
 
-  const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean)
+  const fuse = useMemo(() => new Fuse(items, {
+    keys: ['name'],
+    threshold: 0.4,      // 0 = exact, 1 = match anything
+    distance: 100,
+    minMatchCharLength: 2,
+  }), [items])
 
-  const matches = words.length === 0 ? [] : items.filter(item => {
-    const name = item.name.toLowerCase()
-    return words.some(w => name.includes(w))
-  })
+  const matches = query.trim().length === 0 ? [] : fuse.search(query.trim()).map(r => r.item)
 
   const exactMatch = items.some(
     item => item.name.toLowerCase() === query.trim().toLowerCase()
